@@ -1,0 +1,29 @@
+{
+  "name": "adventofcode2018",
+  "version": "1.0.0",
+  "description": "Advent of code stuff",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Puzzles/Day1/1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/heypano/adventofcode2018.git"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code",
+    "2018"
+  ],
+  "author": "Pano Papadatos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heypano/adventofcode2018/issues"
+  },
+  "homepage": "https://github.com/heypano/adventofcode2018#readme",
+  "dependencies": {
+    "node-wget": "^0.4.3"
+  }
+}
